@@ -17,7 +17,7 @@
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamidrafique2boop.hamidrafique2boop&left_color=black&right_color=brightgreen&left_text=👁️%20Visitors)
+![Visitor Badge](https://komarev.com/ghpvc/?username=hamidrafique2-boop&color=00FF41&style=flat&label=👁️+Visitors)
 ![](https://img.shields.io/badge/Status-Learning%20%26%20Building-00FF41?style=flat&logo=statuspage&logoColor=00FF41&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/Location-Pakistan-00FF41?style=flat&logo=googlemaps&logoColor=00FF41&labelColor=0d0d0d)
 
@@ -50,7 +50,7 @@
 ---
 
 <!-- Dynamic Skills -->
-## <img src="https://media.giphy.com/media/iT138SodaACo9LImgi/giphy.gif" width="30"> `./skills --list`
+## ⚡ `./skills --list`
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41&labelColor=0d0d0d)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d0d0d)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d)
 ![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=0d0d0d&labelColor=0d0d0d)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d0d0d&labelColor=0d0d0d)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white&labelColor=0d0d0d)
@@ -74,7 +74,7 @@
 ---
 
 <!-- Dynamic Projects -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> `./projects --active`
+## 🚀 `./projects --active`
 
 <div align="center">
 
@@ -118,12 +118,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamidrafique2boop&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrafique2boop&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamidrafique2-boop&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidrafique2-boop&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamidrafique2boop&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamidrafique2-boop&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-hamidrafique2boop-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)
+![GitHub](https://img.shields.io/badge/GitHub-hamidrafique2--boop-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)
 ![University](https://img.shields.io/badge/University-Air_University-00FF41?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d0d0d)
 
 <br/>
