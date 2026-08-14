@@ -4,7 +4,7 @@
 <!-- Glitch Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...;%5BACCESS+GRANTED%5D+Welcome+to+Cindrix's+terminal" alt="boot" />
 
-```
+```text
  ██████╗██╗███╗   ██╗██████╗ ██████╗ ██╗██╗  ██╗
 ██╔════╝██║████╗  ██║██╔══██╗██╔══██╗██║╚██╗██╔╝
 ██║     ██║██╔██╗ ██║██║  ██║██████╔╝██║ ╚███╔╝ 
@@ -35,9 +35,9 @@
   > Alias    : Cindrix
   > Identity : [REDACTED]
   > Uni      : Air University, Pakistan
-  > Degree   : BS Cybersecurity [2nd Semester]
+  > Degree   : BS Cybersecurity [3rd Semester]
   > Role     : Aspiring SOC Analyst | Blue Teamer
-  > CGPA     : 3.09 / 4.0  [Semester I]
+  > CGPA     : 3.15 / 4.0  [Semester II]
   > Mission  : Detect. Analyze. Respond. Repeat.
   > Status   : [ ████████░░ ] Building skills...
 
@@ -123,7 +123,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamidrafique2-boop&theme=terminal&hide_border=true&background=0d0d0d&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
