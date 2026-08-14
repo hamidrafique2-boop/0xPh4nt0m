@@ -2,18 +2,18 @@
 <div align="center">
 
 <!-- Glitch Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...;%5BACCESS+GRANTED%5D+Welcome+to+0xPh4nt0m's+terminal" alt="boot" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...;%5BACCESS+GRANTED%5D+Welcome+to+Cindrix's+terminal" alt="boot" />
 
 ```
-██████╗ ██╗  ██╗██████╗ ██╗  ██╗ ██╗  ██╗██████╗ ██╗  ██╗████████╗ ██████╗ ███╗   ███╗
-╚════██╗╚██╗██╔╝██╔══██╗██║  ██║ ██║  ██║██╔══██╗██║  ██║╚══██╔══╝██╔═══██╗████╗ ████║
- █████╔╝ ╚███╔╝ ██████╔╝███████║ ███████║███████║╚███████║   ██║   ██║   ██║██╔████╔██║
-██╔═══╝  ██╔██╗ ██╔═══╝ ██╔══██║ ╚════██║╚════██║ ╚════██║   ██║   ██║   ██║██║╚██╔╝██║
-███████╗██╔╝ ██╗██║     ██║  ██║      ██║     ██║      ██║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝      ╚═╝     ╚═╝      ╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+ ██████╗██╗███╗   ██╗██████╗ ██████╗ ██╗██╗  ██╗
+██╔════╝██║████╗  ██║██╔══██╗██╔══██╗██║╚██╗██╔╝
+██║     ██║██╔██╗ ██║██║  ██║██████╔╝██║ ╚███╔╝ 
+██║     ██║██║╚██╗██║██║  ██║██╔══██╗██║ ██╔██╗ 
+╚██████╗██║██║ ╚████║██████╔╝██║  ██║██║██╔╝ ██╗
+ ╚═════╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;CTF+Player+%F0%9F%9A%A9;Threat+Hunter+in+Training;Blue+Team+Operator;Breaking+things+to+fix+them;%24+whoami+%3D%3E+0xPh4nt0m" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst;CTF+Player+%F0%9F%9A%A9;Threat+Hunter+in+Training;Blue+Team+Operator;Breaking+things+to+fix+them;%24+whoami+%3D%3E+Cindrix" alt="Typing SVG" />
 
 <br/>
 
@@ -29,10 +29,10 @@
 <div align="center">
 
 ```bash
-┌──(0xPh4nt0m㉿air-university)-[~]
+┌──(Cindrix㉿air-university)-[~]
 └─$ cat about_me.txt
 
-  > Alias    : 0xPh4nt0m
+  > Alias    : Cindrix
   > Identity : [REDACTED]
   > Uni      : Air University, Pakistan
   > Degree   : BS Cybersecurity [2nd Semester]
@@ -41,7 +41,7 @@
   > Mission  : Detect. Analyze. Respond. Repeat.
   > Status   : [ ████████░░ ] Building skills...
 
-┌──(0xPh4nt0m㉿air-university)-[~]
+┌──(Cindrix㉿air-university)-[~]
 └─$ █
 ```
 
@@ -85,7 +85,7 @@
 <br/>
 
 ```
-┌──(0xPh4nt0m㉿air-university)-[~/projects]
+┌──(Cindrix㉿air-university)-[~/projects]
 └─$ ls -la
 
   [01] ssh-bruteforce-splunk       [ IN PROGRESS ██░░░░░░░░ 20% ]
@@ -133,7 +133,7 @@
 ## `./ctf --status`
 
 ```bash
-┌──(0xPh4nt0m㉿air-university)-[~/ctf]
+┌──(Cindrix㉿air-university)-[~/ctf]
 └─$ cat progress.log
 
   Platform     : TryHackMe / HackTheBox
@@ -161,15 +161,15 @@
 
 ```
   > "The quieter you become, the more you are able to hear." — Kali Linux motto
-  > "In a world of 0s and 1s, be the one who finds the anomaly."
-                                                        — 0xPh4nt0m
+  > "Every breach leaves a cinder. I go looking for the smoke."
+                                                        — Cindrix
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%5BSESSION+END%5D+Connection+closed+by+0xPh4nt0m;%5BLOG%5D+Profile+visit+recorded...;%5BSYSTEM%5D+See+you+on+the+other+side+%F0%9F%96%A4" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%5BSESSION+END%5D+Connection+closed+by+Cindrix;%5BLOG%5D+Profile+visit+recorded...;%5BSYSTEM%5D+See+you+on+the+other+side+%F0%9F%96%A4" alt="Footer" />
 
 </div>
 
 ---
 <div align="center">
-<sub>⚡ Built in the dark | Powered by caffeine & curiosity | 0xPh4nt0m © 2026</sub>
+<sub>⚡ Built in the dark | Powered by caffeine & curiosity | Cindrix © 2026</sub>
 </div>
