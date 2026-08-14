@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=💀+Kali+Linux;📊+Splunk+SIEM;🦅+ELK+Stack;🔫+Metasploit+Framework;🦈+Wireshark;🗺️+Nmap;🐍+Python;⚙️+Bash+Scripting;📋+Log+Analysis;🛡️+Threat+Detection;🔬+Network+Forensics;🧠+Incident+Response" alt="Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=%F0%9F%92%80+Kali+Linux;%F0%9F%93%8A+Splunk+SIEM;%F0%9F%A6%85+ELK+Stack;%F0%9F%94%AB+Metasploit+Framework;%F0%9F%A6%88+Wireshark;%F0%9F%97%BA%EF%B8%8F+Nmap;%F0%9F%90%8D+Python;%E2%9A%99%EF%B8%8F+Bash+Scripting;%F0%9F%93%8B+Log+Analysis;%F0%9F%9B%A1%EF%B8%8F+Threat+Detection;%F0%9F%94%AC+Network+Forensics;%F0%9F%A7%A0+Incident+Response" alt="Skills" />
 
 <br/><br/>
 
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=🔴+[01]+SSH+Brute-Force+Detection+in+Splunk;🔴+[02]+Port+Scan+Detection+Engineering+Lab;🔴+[03]+Reverse+Shell+Network+Detection+Study;🔴+[04]+End-to-End+SOC+Investigation+Simulation;🔴+[05]+Custom+Log-Based+IDS+Script;🔴+[06]+Beaconing+Traffic+Detection+Lab;🔴+[07]+Exploitation+Visibility+Analysis;🔴+[08]+Web+Attack+Detection+in+SIEM;🔴+[09]+Network+Baseline+vs+Attack+Deviation;🔴+[10]+Detection+Rule+Tuning+%26+FP+Reduction" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9F%94%B4+%5B01%5D+SSH+Brute-Force+Detection+in+Splunk;%F0%9F%94%B4+%5B02%5D+Port+Scan+Detection+Engineering+Lab;%F0%9F%94%B4+%5B03%5D+Reverse+Shell+Network+Detection+Study;%F0%9F%94%B4+%5B04%5D+End-to-End+SOC+Investigation+Simulation;%F0%9F%94%B4+%5B05%5D+Custom+Log-Based+IDS+Script;%F0%9F%94%B4+%5B06%5D+Beaconing+Traffic+Detection+Lab;%F0%9F%94%B4+%5B07%5D+Exploitation+Visibility+Analysis;%F0%9F%94%B4+%5B08%5D+Web+Attack+Detection+in+SIEM;%F0%9F%94%B4+%5B09%5D+Network+Baseline+vs+Attack+Deviation;%F0%9F%94%B4+%5B10%5D+Detection+Rule+Tuning+%26+FP+Reduction" alt="Projects" />
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2000&pause=600&color=FF6B35&center=true&vCenter=true&width=550&lines=🧪+SIEM+Engineering;🔍+Threat+Detection+%26+Hunting;🚨+Incident+Response;🛡️+Blue+Team+Operations;🔎+Log+Forensics;📡+Network+Traffic+Analysis;⚠️+Intrusion+Detection+Systems;🕵️+SOC+Workflows" alt="Research" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2000&pause=600&color=FF6B35&center=true&vCenter=true&width=550&lines=%F0%9F%A7%AA+SIEM+Engineering;%F0%9F%94%8D+Threat+Detection+%26+Hunting;%F0%9F%9A%A8+Incident+Response;%F0%9F%9B%A1%EF%B8%8F+Blue+Team+Operations;%F0%9F%94%8E+Log+Forensics;%F0%9F%93%A1+Network+Traffic+Analysis;%E2%9A%A0%EF%B8%8F+Intrusion+Detection+Systems;%F0%9F%95%B5%EF%B8%8F+SOC+Workflows" alt="Research" />
 
 </div>
 
